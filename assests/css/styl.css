@@ -67,7 +67,7 @@ header li:first-child {
     *zoom: 1;
 }
 #main{
-	   background-image : url("images/backgroun.jpg");
+	   background-image : url('../images/backgroun.jpg');
        height: 438px;	
      }
 #main p{
