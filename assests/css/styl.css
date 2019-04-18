@@ -11,7 +11,7 @@ body{
  	text-decoration: none;
  }
  header{
- 	height: 300px;
+ 	height: 220px;
  	padding-top: 20px;
  }
  ul{
@@ -70,9 +70,9 @@ header li:first-child {
 	   background-image : url('../images/backgroun.jpg');
        height: 438px;	
      }
-#main p{
+#main{
 	margin: 0;
-	padding-top: 20px;
+	padding-top: 40px;
 	color: #b46363;
 	text-align: center;
 	font-size: 30px;
